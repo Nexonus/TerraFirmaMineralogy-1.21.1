@@ -1,0 +1,8 @@
+{
+  "itemGroup.terrafirmamineralogy": "Example Mod Tab",
+
+  "terrafirmamineralogy.configuration.title": "TerraFirmaMineralogy Configs",
+  "terrafirmamineralogy.configuration.section.terrafirmamineralogy.common.toml": "TerraFirmaMineralogy Configs",
+  "terrafirmamineralogy.configuration.section.terrafirmamineralogy.common.toml.title": "Terra Firma Mineralogy Configs",
+  "terrafirmamineralogy.configuration.items": "Terra Firma Mineralogy List",
+}

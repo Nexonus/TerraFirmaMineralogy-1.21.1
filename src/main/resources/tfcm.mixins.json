@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "net.nexreon.terrafirmamineralogy.mixin",
+  "plugin": "net.dries007.tfc.mixin.plugin.TFCMixinPlugin",
+  "mixins": [
+    "CompassItemMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
